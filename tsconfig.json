@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "jsx": "react",
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "target": "es2019",
+    "module": "esnext"
+  },
+  "include": ["./src"]
+}
